@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "203666700687",
+    "project_id": "dermocheckapp",
+    "storage_bucket": "dermocheckapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203666700687:android:46e0314722c20b3492b3fa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203666700687-inrt6f2krps3d4psmv2fsuv01sghf244.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_cancer",
+            "certificate_hash": "b74620f7f19b44da7601a287ad24c335efa1a95e"
+          }
+        },
+        {
+          "client_id": "203666700687-rsm0ojeehd5dnp4apiobmh5s78f1ullj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qVpcnmForCAKQcZEdG5DhUixvN9ky1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203666700687-rsm0ojeehd5dnp4apiobmh5s78f1ullj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203666700687-5b27un58nuaosb83kbmlqpcdb8rl4qbt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterCancer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
