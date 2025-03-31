@@ -1,6 +1,6 @@
 <h1 align="center">DermaCheck</h1>
 <p>Cilt görüntülerinden kanser tespiti için MobileNetV2 mimarisi kullanarak bir görüntü sınıflandırma modeli geliştirdim ve eğittim. Mobil uygulama Flutter ile geliştirdim ve veritabanı için Firebase tercih ettim.
-Tahmin yapılan resimlerin kullanıcı bazlı kaydolmasını sağladım. Mobil uygulama ile yapay zeka modeli arasındaki entegrasyonu Flask framework'ü ile sağlandım. </p>,
+Tahmin yapılan resimlerin kullanıcı bazlı kaydolmasını sağladım. Mobil uygulama ile yapay zeka modeli arasındaki entegrasyonu Flask framework'ü ile sağlandım. </p>
 <br/> <br/>
 
 <div>
