@@ -4,9 +4,11 @@ Tahmin yapılan resimlerin kullanıcı bazlı kaydolmasını sağladım. Mobil u
 <br/> <br/>
 
 <h5 align="center">Model Sonuçları</h5>
+<div align="center">
 <img align="center" src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-model/matris.png" alt="Reyhan's GIF" width="500"/>
 <img align="center" src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-model/occua.png" alt="Reyhan's GIF" width="500"/>
 <img align="center" src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-model/loss.png" alt="Reyhan's GIF" width="500"/>
+</div>
 
 <br/>
 
