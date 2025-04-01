@@ -3,6 +3,14 @@
 Tahmin yapılan resimlerin kullanıcı bazlı kaydolmasını sağladım. Mobil uygulama ile yapay zeka modeli arasındaki entegrasyonu Flask framework'ü ile sağlandım. </p>
 <br/> <br/>
 
+<h5 align="center">Model Sonuçları</h5>
+<img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-model/matris.png" alt="Reyhan's GIF" width="400"/>
+<img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-model/occua.png" alt="Reyhan's GIF" width="400"/>
+<img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-model/loss.png" alt="Reyhan's GIF" width="400"/>
+
+<br/>
+
+<h5 align="center">Mobil Görselleri</h5>
 <div>
 <img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-mobile-images/baslangic.png" alt="Reyhan's GIF" width="200"/>
 <img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-mobile-images/splash_1.png" alt="Reyhan's GIF" width="200"/>
