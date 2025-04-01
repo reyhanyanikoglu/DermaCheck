@@ -4,21 +4,13 @@ Tahmin yapılan resimlerin kullanıcı bazlı kaydolmasını sağladım. Mobil u
 <br/> <br/>
 
 <h5 align="center">Model Sonuçları</h5>
-<p align="center">
-  <img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-mobile-images/baslangic.png" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-mobile-images/splash_1.png" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-mobile-images/splash_2.png" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-mobile-images/splash_3.png" width="200"/>
-</p>
+<div align="center">
+  <img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-model/matris.png" alt="Confusion Matrix" width="500"/>
+  <br/>
+  <img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-model/occua.png" alt="Accuracy Graph" width="500"/>
+  <br/>
+  <img src="https://github.com/reyhanyanikoglu/assets/blob/main/dermacheck-model/loss.png" alt="Loss Graph" width="500"/>
+</div>
 
 <br/>
 
